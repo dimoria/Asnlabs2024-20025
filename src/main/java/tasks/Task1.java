@@ -1,4 +1,4 @@
-package org.example;
+package tasks;
 import java.util.*;
 import java.util.concurrent.*;
 import java.util.function.*;
